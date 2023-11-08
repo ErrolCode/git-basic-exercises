@@ -1,0 +1,500 @@
+  232  git branch -M main
+  233  git push -u origin main
+  234  echo "# basic_repo" >> README.md
+  235  git init
+  236  git add README.md
+  237  git commit -m "first commit"
+  238  git branch -M main
+  239  git remote add origin https://github.com/ErrolCode/basic_repo.git
+  240  git push -u origin main
+  241  git remote add origin https://github.com/ErrolCode/basic_repo.git
+  242  git branch -M main
+  243  git push -u origin main
+  244  git push -u origin main
+  245  git config global edit
+  246  cd .
+  247  cd ..
+  248  cd ..
+  249  ls
+  250  ls
+  251  ls
+  252  'OneDrive - Capitec Bank Ltd'/
+  253  cd desktop
+  254  ls
+  255  cd 'OneDrive - Capitec Bank Ltd'/
+  256  cd desktop
+  257  mkdir basic_repo
+  258  cd basic_repo
+  259  ls
+  260  ls
+  261  'OneDrive - Capitec Bank Ltd'/
+  262  cd [200~'OneDrive - Capitec Bank Ltd'/
+  263  ls
+  264  cd 'OneDrive - Capitec Bank Ltd'/
+  265  cd desktop
+  266  mkdir basic_repo
+  267  cd basic_repo
+  268  touch index.html
+  269  touch style.css
+  270  git init
+  271  git init
+  272  git add .
+  273  git commit-m "First commit"
+  274  git commit -m "complete html, css and java "
+  275  git remote add origin https://github.com/ErrolCode/Basic_Repo.git
+  276  git remote add origin https://github.com/ErrolCode/Basic_Repo.git
+  277  git branch -M main
+  278  git push -u origin main
+  279  ls
+  280  cd  'OneDrive - Capitec Bank Ltd'/
+  281  cd desktop
+  282  cd Test_Repo
+  283  git init
+  284  git add .
+  285  git commit -m "final commit"
+  286  git remote add origin https://github.com/ErrolCode/gitignore.git
+  287  git branch -M main
+  288  git push -u origin main
+  289   git remote add origin https://github.com/ErrolCode/gitignore.git
+  290  git branch -M main
+  291  git push -u origin main
+  292  git pull
+  293   git config --global --add safe.directory 'C:/Users/CP020163/OneDrive - Capitec Bank Ltd/Desktop/Test_Repo'
+  294   git remote add origin https://github.com/ErrolCode/gitignore.git
+  295  [200~
+  296  git branch -M main
+  297  git push -u origin main
+  298  ls
+  299  cd [200~'OneDrive - Capitec Bank Ltd'/
+  300  ls
+  301  ls
+  302  'OneDrive - Capitec Bank Ltd'/
+  303  ls
+  304  ls
+  305  cd 'OneDrive - Capitec Bank Ltd'/
+  306  cd desktop
+  307  git clone https://github.com/ErrolCode/update_and_commit
+  308  cd udate_and_commit
+  309  cd update_and_commit
+  310  get int
+  311  git init
+  312  git add.
+  313  git add .
+  314  git commit -m "first commit"
+  315  git pull origin master -m "this is a fetch and a merge in one command!"
+  316  git remote add origin https:git push origin master
+  317  [200~git remote add origin https://github.com/<github username>/<github repo name>.githttps://github.com/ErrolCode/update_and_commit
+  318  git push origin master
+  319  ls
+  320  cd 'OneDrive - Capitec Bank Ltd'/
+  321  cd desktop
+  322  git clone https://github.com/ErrolCode/portfolio_templates
+  323  git diff
+  324  java -version.
+  325  ls
+  326  cd 'OneDrive - Capitec Bank Ltd'/
+  327  cd desktop
+  328  cd Branching and merging
+  329  cd Branching & Merging
+  330  cd CodingDojo
+  331  cd git
+  332  cd Branching & Merging
+  333  cd git_assignment_3
+  334  git init
+  335  git add .
+  336  git commit -m "first commit"
+  337  git branch css-add
+  338  git branch css-add master
+  339   
+  340  git checkout css-add
+  341  git init
+  342  git add .
+  343  git commit -m "added CSS feature"
+  344  git checkout master
+  345  git merge css-add
+  346  git remote add origin https://github.com/ErrolCode/Git_Assignment_3.git
+  347  git branch -M main
+  348  git push -u origin main
+  349  git commit --amend --reset-author
+  350  NET START SQL
+  351  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  352  brew install maven
+  353  mvn --version
+  354  ls
+  355  ls /
+  356  ls
+  357  ls/
+  358  ls /
+  359   ls / OneDrive
+  360  ls
+  361  ls /'OneDrive - Capitec Bank Ltd'
+  362  cd desktop
+  363  cd / desktopp
+  364  cd / desktop
+  365  cd/desktop
+  366  ls
+  367  cd /
+  368  cd
+  369  pwd
+  370  ls//c/Users/CP020163/desktop
+  371  ls desktop/
+  372  pwd
+  373  cd .
+  374  pwd
+  375  c ..
+  376  cd ..
+  377  cd ..
+  378  cd .
+  379  pwd
+  380  cd
+  381  pwd
+  382  ls
+  383  cd desktop
+  384  cd . desktop
+  385  cd .
+  386  pwd
+  387  cd home
+  388  cd Home
+  389  man cd
+  390  man ls
+  391  man
+  392  man [ls]
+  393  ls 
+  394  pwd
+  395  ls /
+  396  pwd
+  397  ls
+  398  ls /
+  399  pwd
+  400  cd user
+  401  [200~'OneDrive - Capitec Bank Ltd'/~
+  402  cd [200~'OneDrive - Capitec Bank Ltd'/
+  403  cd 'OneDrive - Capitec Bank Ltd'/
+  404  cd desktop
+  405  ls
+  406  ls /
+  407  ls
+  408  ls
+  409  cd 'OneDrive - Capitec Bank Ltd'/
+  410  mkdir command
+  411  pwd
+  412  cd /
+  413  cd 'OneDrive - Capitec Bank Ltd'/
+  414  pwd
+  415  cd /OneDrive - Capitec Bank Ltd
+  416  cd c/Users/CP020163/OneDrive - Capitec Bank Ltd
+  417  ls
+  418  cd
+  419  cd
+  420  ls
+  421  cd 'OneDrive - Capitec Bank Ltd'/
+  422  cd desktop
+  423  mkdr test
+  424  mkdir test
+  425  pwd
+  426  cd test
+  427  ls
+  428  ls /
+  429  ped
+  430  pwd
+  431  cd .
+  432  cd /
+  433  cd c/Users/CP020163/OneDrive - Capitec Bank Ltd/desktop
+  434  ls
+  435  git config --global user.name "John Doe"
+  436  git config --global user.email johndoe@example.co
+  437  git config --global user.name "Errol Mabusela"
+  438  git config --global user.email emabusela@gmail.com
+  439  git config --global --list
+  440  ls
+  441  cd /OneDrive - Capitec Bank Ltd
+  442  cd
+  443  cd OneDrive/
+  444  ls
+  445  cd .
+  446  cd ..
+  447  cd 'OneDrive - Capitec Bank Ltd'/
+  448  cd desktop
+  449  mkdir git-basic-exercises
+  450  cd git-basic-exercises
+  451  ls -a
+  452  git init
+  453  git status
+  454  ls -a
+  455  git status
+  456  touvh REAMe.md
+  457  touch README.md
+  458  ls -a
+  459  git log
+  460  git status
+  461  git log
+  462  git add
+  463  git add README.md
+  464  git status
+  465  git commit -m "initial commit"
+  466  git status
+  467  ls
+  468  ls -a
+  469  cd ..
+  470  cd git-basic-exercises
+  471  got log
+  472  git log
+  473  q
+  474  nano README.md
+  475  cat README.md
+  476  git status
+  477  git add
+  478  git status
+  479  git add
+  480  git commit -m "second commit"
+  481  nano README.md
+  482  nano README.md
+  483  ls
+  484  cd 'OneDrive - Capitec Bank Ltd'/
+  485  cd desktop
+  486  ls
+  487  cd  git-basic-exercises/
+  488  nano README.md
+  489  cat README.md
+  490  git status
+  491  git commit -m "second commit"
+  492  git add
+  493  nano README.md
+  494  git add
+  495  git add README.md
+  496  git status
+  497  git commit -m "second commit"
+  498  nano README.md
+  499  cat README.md
+  500  git add
+  501  git add README.md
+  502  git status
+  503  git commit -m "Third commit"
+  504  cat README.md
+  505  git log
+  506  q
+  507  git checkout e80038d9015221bca0f80f90d6db7b0f23df673d
+  508  cat README.md
+  509  git checkout main
+  510  git checkout main
+  511  cat README.md
+  512  git checkout main
+  513  git checkout MAIN
+  514  git checkout  a8059bf9c2310fae8393e4df11b801d02029f8c9
+  515  cat README.md
+  516  git branch
+  517  cd ..
+  518  cd /git-basic-exercises
+  519  cd git-basic-exercises
+  520  ls
+  521  git branch
+  522  git branch milkshake-flavours master
+  523  git branch
+  524  git branch
+  525  cd  milkshake-flavours
+  526  git branch
+  527  git checkout milkshake-flavours
+  528  git branch
+  529  nano milkshakes.md
+  530  touch milkshakes.md
+  531  nano milkshakes.md
+  532  nano milkshake.md
+  533  nano milkshake.md
+  534  git status
+  535  git add milkshake .md
+  536  git add milkshake.md
+  537  git commit -m "added initial flavours"
+  538  checkout branch
+  539  git checkout
+  540  git status
+  541  git log
+  542   git branch history master
+  543  cd ..
+  544  cd git-basic-exercises
+  545  pwd
+  546  git branch
+  547  git checkout history
+  548  git log
+  549  git branch
+  550  history > history.txt
+  551  ls
+  552  git add history
+  553  git add history
+  554  git add history.txt
+  555  git commit -m "added history"
+  556  got log
+  557  git log
+  558  git checkout 
+  559  git checkout milkshake
+  560  git checkout milkshakes
+  561  git branch
+  562  git checout milkshake-flavours
+  563  git checkout milkshake-flavours
+  564  git log
+  565  nano README.md
+  566  git add README.md
+  567  git status
+  568  git commit -m "random readme changes"
+  569  git checkout history
+  570  cat README.md
+  571  rm README.md
+  572  echo "booya" > README.md
+  573  git add README.md
+  574  git commit -m "rewrote readme"
+  575  git checkout main
+  576  ls
+  577  git checkout main
+  578  git branch
+  579  git checkout main
+  580  ls
+  581  git checkout milkshake-flavours
+  582  ls
+  583  git log
+  584  git checkout history
+  585  git log
+  586  git checkout main
+  587  git branch
+  588  git checkout master
+  589  git merge milkshake-flavours
+  590  ls
+  591  git log
+  592  git checkout history
+  593   git checkout master
+  594  git merge history
+  595  git merge history
+  596  ls
+  597  git checkout master
+  598  git merge history
+  599  git merge history.txt
+  600  git merge history
+  601  git checkout history
+  602  ls
+  603  git log
+  604  git merge history
+  605  git log
+  606  git checkout master
+  607  git log
+  608  git remote add origin https://github.com/ErrolCode/git-basic-exercises.git
+  609  git branch -M main
+  610  git push -u origin main
+  611  git remote add origin https://github.com/ErrolCode/git-basic-exercises.git
+  612  git branch -M history
+  613  git push -u origin history
+  614  git remote add origin https://github.com/ErrolCode/git-basic-exercises.git
+  615  git branch -M milkshake-flavours
+  616  git push -u origin milkshake-flavours
+  617  cd ../
+  618  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  619  cd a-repo-to-clone
+  620  git baranch
+  621  git branch
+  622  git log
+  623  [200~git branch -a~
+  624  git branch -a
+  625  git checkout a-branch-with-a-few-commits
+  626  git remote -v
+  627  git log
+  628  git checkout git-basic-exercises
+  629  cd ..
+  630  cd git-basic-exercises
+  631  cd .
+  632  git log
+  633  cd
+  634  mkdir this-will-be-another-repo
+  635  cd
+  636  cd  this-will-be-another-repo
+  637  git init
+  638  touch README.md
+  639  cd desktop
+  640  ls
+  641  cd  OneDrive - Capitec Bank Ltd/desktop
+  642  cd 'OneDrive - Capitec Bank Ltd'/
+  643  pwd
+  644   cd 'OneDrive - Capitec Bank Ltd'/
+  645  git add this-will-be-another-repo
+  646  git add this-will-be-another-repo
+  647  git commit -m "new commit"
+  648  git commit -m "new commit"
+  649  git add
+  650  pwd
+  651  git init
+  652  ls
+  653  git checkout git-basic-exercises
+  654  git checkout git-basics-exercises
+  655  cd
+  656  ls
+  657  cd 'OneDrive - Capitec Bank Ltd'/
+  658  cd desktop
+  659  git status
+  660  cd git-basic-exercises
+  661  git status
+  662  cd git
+  663  git branch
+  664  git checkout master
+  665  git branch
+  666  git checkout history
+  667  git checkout main
+  668  ls
+  669  git log
+  670  git branch
+  671  touch ignore-me.db
+  672  cd
+  673  cd  'OneDrive - Capitec Bank Ltd'
+  674  cd desktop
+  675  cd git-basic-exercises 
+  676  touch ignore-me.db
+  677  cd
+  678  ls
+  679  cd  this-will-be-another-repo/
+  680  ls
+  681  git branch
+  682  cd 'OneDrive - Capitec Bank Ltd'/
+  683  c ../
+  684  cd
+  685  cd 'OneDrive - Capitec Bank Ltd'/
+  686  cd desktop
+  687  cd git-basic-exercises
+  688  ls
+  689  git status
+  690  nano .gitignore
+  691  git status
+  692  mkdir large-directory-that-should-be-local-only
+  693  cd 
+  694  cd  'OneDrive - Capitec Bank Ltd'
+  695  cd desktop
+  696  cd git-basic-exercises
+  697  ls
+  698  cd large-directory-that-should-be-local-only/
+  699  touch README.md
+  700  nano README.md
+  701  cd ..
+  702  ls
+  703  nano gitignore
+  704  git status
+  705  git status
+  706   nano gitignore
+  707  git status
+  708  nano .gitignore
+  709  git status
+  710  git add .gitignore
+  711  git commit -m "added .gitignore"
+  712  git push
+  713  git push
+  714  git push
+  715  git status
+  716  git branch
+  717  git branch history
+  718  git checkout history
+  719  ls
+  720  mkdir history.txt
+  721  ls
+  722  git add
+  723  git commit
+  724  nano history.txt
+  725  git rm  history.txt
+  726  git rm history.txt
+  727  ls
+  728  git add
+  729  ls
+  730  [200~history > history.txt~
+  731  history > history.txt
